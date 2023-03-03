@@ -1,0 +1,6 @@
+ipykernel
+
+pandas
+scikit-learn
+azure-cognitiveservices-language-luis==0.7.0
+msrest>=0.6.10

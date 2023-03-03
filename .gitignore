@@ -1,0 +1,10 @@
+/__pycache__/
+/env_oc_10_scripts/
+
+/convert_json_data.ipynb
+/create_luis.ipynb
+/first_look.ipynb
+/freeze.txt
+
+/tools.py
+
