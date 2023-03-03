@@ -4,6 +4,7 @@
 /create_luis.ipynb
 /first_look.ipynb
 /luis_val_set.ipynb
+/luis_production.ipynb
 
 /__pycache__/
 /freeze.txt
